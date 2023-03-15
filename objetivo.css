@@ -1,0 +1,27 @@
+.lista{
+    text-align:
+}
+.logo2{
+    float:right;
+    image-orientation:center;
+    margin: 9px;
+    border: solid 5px;
+    border-color:black;
+    clear: both;
+}
+.lis{
+    color:  black;
+    font-size: 30px;
+    font-family: fantasy;
+}
+#h1{
+    font-size: 45px;
+    color:;
+    background-color:darkseagreen;
+    text-align: center;
+}
+#h5{
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}

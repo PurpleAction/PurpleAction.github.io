@@ -1,0 +1,26 @@
+#img3{
+    display: inline-block;
+    width: 20%;
+     float:right;
+    image-orientation:center;
+    margin: 10px;
+    border: solid 5px;
+    border-color:black;
+    clear: both;
+}
+h4{
+font-size: 22px;
+}
+#bien{
+  font-size: 40px;
+    color:;
+    background-color:darkseagreen;
+    text-align: center;
+}
+#info{
+    color: blue;
+}
+h2{
+    text-align: center;
+    font-size: 25px
+}

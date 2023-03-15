@@ -1,0 +1,19 @@
+#titul{
+color:  black;
+    font-size: 30px;
+    text-align: center;
+}
+h1{
+        font-size: 45px;
+    color:;
+    background-color:darkseagreen;
+    text-align: center;
+}
+#logo{
+    float:right;
+    image-orientation:center;
+    margin: 9px;
+    border: solid 5px;
+    border-color:black;
+    clear: both;
+}
